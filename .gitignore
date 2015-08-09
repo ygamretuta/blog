@@ -38,3 +38,6 @@ bin
 config/deploy/*
 config/deploy.rb
 Capfile
+
+# Bundler
+.bundle/
