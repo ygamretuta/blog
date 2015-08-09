@@ -33,3 +33,8 @@ node_modules
 # Vagrant
 bin
 .vagrant
+
+# bedrock-capistrano
+config/deploy/*
+config/deploy.rb
+Capfile
